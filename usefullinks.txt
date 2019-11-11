@@ -1,0 +1,2 @@
+https://odan.github.io/2018/07/17/aspnet-core-2-ubuntu-setup.html
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04
